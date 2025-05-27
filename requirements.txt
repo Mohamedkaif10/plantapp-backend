@@ -1,2 +1,10 @@
 fastapi 
 uvicorn 
+python-multipart
+python-dotenv
+aiofiles
+pydantic
+pydantic-settings
+httpx
+python-jose
+passlib
